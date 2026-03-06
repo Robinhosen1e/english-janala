@@ -1,0 +1,23 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.font-bangla{
+    font-family: "Hind Siliguri", sans-serif;
+}
+.active{
+    background-color: #422AD5;
+    color: white;
+}
+
+/* #form input{
+    width: 461px;
+    padding: 18px 31px;
+    margin-bottom: 24px;
+    border: none;
+    border-radius: 5px;
+
+    color: #ffffff;
+    border: 1 black;
+} */
+
+
